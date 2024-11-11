@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+*{.poppins-thin {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+    
+     
+    
+    padding: 0px;
+margin: 0px;
+scroll-behavior: smooth;
+box-sizing: border-box;
+}
+
+.kolheader{
+
+background-color: rgb(242, 243, 243);
+
+padding: 0 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.logo img {
+width: 100px;
+
+}
+
+.elesm a{
+  text-decoration: none;
+font-weight: 700;
+font-size: 1.8em;
+  padding: 0px 10px;
+  text-decoration: none;
+  color: rgb(34, 2, 4);
+
+}
+.elesm a:hover {
+  background-color: rgba(170, 138, 100, 0.055);
+
+}
+
+
+.content{
+  padding-top:  600px;
+background: url(new/اخر.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+
+}
+
+.marhabn span{
+
+font-size: xx-large;
+font-weight: 900;
+display: flex;
+color:darkolivegreen;
+border-color: darkgreen;
+align-items: center;
+padding-left: 250px;
+}
+
+.elkalam p {
+  padding: 30px 100px;
+  display: flex;
+  justify-content: space-between;
+color: darkolivegreen;
+font-size: x-large
+}
+.mawqena  {
+  font-size: xx-large;
+font-weight: 900;
+padding: 0px 90px;
+color: darkolivegreen;
+border-radius: 15px;
+display: flex;
+
+
+
+
+}
+.link a {
+ color: azure;
+ font-size: 1.8em;
+ padding-right: 100px;
+ padding-left: 100px;
+}
